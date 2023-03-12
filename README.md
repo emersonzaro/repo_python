@@ -1,7 +1,8 @@
-# Repositório com alguns modelos de ingestão de dados em Python #
+⚡ Repositório com alguns modelos de ingestão de dados em Python 
+--
 
 📝 Alguns dos meus certificados de capacitação ministrados pela Data Science Academy:
---
+
 #
 
 📄 Engenharia de dados: https://mycourse.app/4vjDBaGinamAUKYH6
